@@ -1,0 +1,15 @@
+:root {
+	--navbar-height: 10vh;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a {
+	cursor: pointer;
+	color: inherit;
+	text-decoration: none;
+}
